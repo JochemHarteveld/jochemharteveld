@@ -1,4 +1,4 @@
-##👋 Welcome to My GitHub Universe!
+👋 Welcome to My GitHub Universe!
 🚀 About Me
 
 Hi there! I'm Jochem Harteveld, a passionate Software Engineering student at the University of Applied Sciences Leiden. When I’m not juggling coursework, I’m busy building awesome stuff as a Full Stack Developer at TranspaClean!
